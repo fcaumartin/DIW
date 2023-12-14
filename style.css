@@ -1,0 +1,39 @@
+div, header, footer {
+    display: block;
+    margin: 5px;
+    padding: 5px;
+
+}
+
+
+.envert {
+    color: green;
+}
+
+.enrouge {
+    color: red;
+}
+
+.fondgris {
+    background-color: gainsboro;
+}
+
+.bordure {
+    border: 2px solid blue;
+}
+
+#div2 {
+    width: 30rem;
+    height: 10rem;
+}
+
+.image1 {
+    width: 600px;
+    height: 60px;
+}
+
+.image2 {
+    width: 800px;
+}
+
+
